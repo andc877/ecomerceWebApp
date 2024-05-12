@@ -8,6 +8,7 @@ C:\Users\Anand Chauhan\source\repos\EcomerceWebAPIs\bin\Debug\net8.0\EcomerceWeb
 C:\Users\Anand Chauhan\source\repos\EcomerceWebAPIs\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\Anand Chauhan\source\repos\EcomerceWebAPIs\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\Anand Chauhan\source\repos\EcomerceWebAPIs\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Anand Chauhan\source\repos\EcomerceWebAPIs\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Anand Chauhan\source\repos\EcomerceWebAPIs\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Anand Chauhan\source\repos\EcomerceWebAPIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\Users\Anand Chauhan\source\repos\EcomerceWebAPIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
